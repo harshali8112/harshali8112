@@ -7,7 +7,7 @@
 I turn raw data into clear, decision-ready insights using **SQL, Excel and Power BI**. I'm also learning **Python** and building small **LLM-powered analytics tools** to see how AI can speed up the analysis workflow.
 
 📫 **Open to entry-level Data Analyst roles.** Reach me at **info.harshali268@gmail.com**
-<!-- Add your LinkedIn here once you have the link: 🔗 [LinkedIn](https://www.linkedin.com/in/your-id) -->
+🔗 **LinkedIn:** [harshali-malhotra](https://www.linkedin.com/in/harshali-malhotra-5528962a4)
 
 ---
 
